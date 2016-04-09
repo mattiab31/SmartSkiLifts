@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_id": "skilift-5b82b",
+    "project_number": "146553274651",
+    "name": "SkiLift"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146553274651:android:556a6223dd98c6b6",
+        "client_id": "android:com.example.matt.smartskifrag",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.matt.smartskifrag",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-75384362-1"
+          }
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

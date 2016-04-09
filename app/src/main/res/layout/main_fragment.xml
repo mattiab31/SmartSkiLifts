@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_vertical_margin"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to our SKIAREA"
+        android:textSize="20dp"
+        android:textColor="#ff0000"
+        android:fontFamily="Impact"
+        android:textAlignment="center"/>
+
+    <ImageButton
+        android:id="@+id/imgSmall"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgBig"
+        />
+
+</LinearLayout>
